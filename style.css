@@ -1,8 +1,11 @@
 div{
     border: solid 1px black;
-    width: 100%100cqi;
+    width: 100%;
     background-color: aqua;
 }
 .kontener{
     display: flex;
+}
+img{
+    max-width: 100%;
 }
